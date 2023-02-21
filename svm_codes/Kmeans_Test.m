@@ -1,12 +1,6 @@
 
 %% This code implements K-means Clustering
 % Parameters (number of clusters, K-means Iteration)
-% Alireza Asvadi
-% Department of ECE, SPR Lab
-% Babol (Noshirvani) University of Technology
-% Questions regarding the code may be directed to:
-% http://www.a-asvadi.ir/
-% 2013
 %% Clear Memory & Command Window
 clc
 clear all
